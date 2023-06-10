@@ -1,4 +1,4 @@
-# Moddule 7 Challenge - SQL
+# Module 7 Challenge - SQL
 
 This challenge is focused on SQL queries and providing visualizations using ETF analysis and demonstrating via an itneractive localhosted web interface (Voila).
 
